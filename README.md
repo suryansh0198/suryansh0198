@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryansh0198
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ... coding in scratch and c from cs50
+- 🌱 I’m currently learning ... coding from cs50
 - 💞️ I’m looking to collaborate on ...projects for beginners
 - 📫 How to reach me ... gmail
 
